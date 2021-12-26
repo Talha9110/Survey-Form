@@ -161,3 +161,13 @@ form {
 		padding: 2.5rem;
 	}
 }
+
+@media screen and (max-width: 420px) {
+	form {
+		width: 96%;
+	}
+	h1,
+	p {
+		margin-bottom: 1rem;
+	}
+}
